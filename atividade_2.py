@@ -1,16 +1,14 @@
 pessoas = [
-    (3, 'Ana'), (10, 'Bruno'), (15, 'Carlos'), (18, 'Daniela'),
-    (19, 'Eduardo'), (23, 'Juliana'), (28, 'Fernanda'), (33, 'Gustavo'),
-    (35, 'Helena'), (43, 'Igor'), (48, 'Larissa'), (58, 'Kleber'),
-    (83, 'Larissa'), (84, 'Marcos'), (86, 'Natália'), (97, 'Otávio'),
-    (104, 'Patrícia'), (106, 'Rafael'), (115, 'Sabrina'), (120, 'Tiago'),
-    (122, 'Vanessa'), (127, 'Amanda'), (143, 'Breno'), (147, 'Camila'),
-    (149, 'Diego'), (179, 'Gabriela'), (184, 'Henrique'), (187, 'Isabela'),
-    (194, 'João'), (199, 'Karen'), (201, 'Leonardo'), (211, 'Mirela'),
-    (213, 'Nicolas'), (232, 'Olívia'), (256, 'Simone'), (258, 'Túlio'),
-    (261, 'Victor'), (269, 'Wesley'), (273, 'Xênia'), (278, 'Yasmin'),
-    (280, 'Zeca'), (288, 'Alana'), (291, 'Caio'), (292, 'Diana'),
-    (294, 'Fábio')
+    (3, 'Ana'), (10, 'Bruno'), (15, 'Carlos'), (18, 'Daniela'), (19, 'Eduardo'),
+    (28, 'Fernanda'), (33, 'Gustavo'), (35, 'Helena'), (43, 'Igor'), (48, 'Juliana'),
+    (50, 'Kleber'), (83, 'Larissa'), (84, 'Marcos'), (86, 'Natália'), (97, 'Otávio'),
+    (104, 'Patrícia'), (106, 'Rafael'), (115, 'Sabrina'), (120, 'Tiago'), (122, 'Vanessa'),
+    (127, 'Amanda'), (143, 'Breno'), (147, 'Camila'), (148, 'Diego'), (151, 'Eliene'),
+    (175, 'Fabiano'), (179, 'Gabriela'), (184, 'Henrique'), (187, 'Isabela'), (194, 'João'),
+    (199, 'Karen'), (201, 'Leonardo'), (211, 'Mirela'), (213, 'Nícolas'), (232, 'Olívia'),
+    (241, 'Pedro'), (244, 'Giselle'), (246, 'Rodrigo'), (256, 'Simone'), (258, 'Túlio'),
+    (259, 'Ursula'), (261, 'Victor'), (269, 'Wesley'), (273, 'Xênia'), (278, 'Yasmin'),
+    (280, 'Zeca'), (288, 'Alana'), (291, 'Caio'), (292, 'Diana'), (294, 'Fábio')
 ]
 
 
