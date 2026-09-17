@@ -36,4 +36,4 @@ nome, tentativas = pesquisa_binaria(pessoas, 256)
 
 print("Nome:", nome)
 print("Tentativas na pesquisa binária:", tentativas)
-print("Tentativas na pesquisa sequencial:", pessoas.index((256, 'Simone')) + 1)
+print("Tentativas na pesquisa sequencial:", pessoas.index((256, 'Simone')))
